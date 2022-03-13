@@ -14,3 +14,6 @@ Options:
   -d DESTINATION, --destination=DESTINATION
                         Local path to download to
 ```
+
+__Install__
+`pip install -r requirements.txt`
