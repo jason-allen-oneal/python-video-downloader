@@ -15,5 +15,5 @@ Options:
                         Local path to download to
 ```
 
-__Install__
+__Install__  
 `pip install -r requirements.txt`
